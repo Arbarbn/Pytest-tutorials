@@ -30,4 +30,4 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest tests/test_main.py
+        pytest tests\test_main.py
